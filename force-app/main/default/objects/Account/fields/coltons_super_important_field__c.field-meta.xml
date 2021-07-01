@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>coltons_super_important_field__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>This is Colton&apos;s super important field.</description>
+    <externalId>false</externalId>
+    <label>coltns super important field</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
